@@ -1,2 +1,2 @@
-# rebote_pelota
-Una pelota se deja caer desde una altura h, y en cada rebote sube el 10% menos del anterior.
+#Taller de instrucciones condicionales
+un taller con muchos programas que se basan en usar istrucciones condicionales
